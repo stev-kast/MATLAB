@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<struct>
+    <item>
+        <idAttribute>1</idAttribute>
+        <word>Apple</word>
+        <description>It is a red fruit</description>
+    </item>
+    <item>
+        <idAttribute>2</idAttribute>
+        <word>Pen</word>
+        <description>You write with it</description>
+    </item>
+    <item>
+        <idAttribute>3</idAttribute>
+        <word>Chair</word>
+        <description>You sit in it</description>
+    </item>
+</struct>
