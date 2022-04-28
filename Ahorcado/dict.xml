@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <struct>
-    <item>
-        <idAttribute>1</idAttribute>
-        <word>Apple</word>
+    <item id="1">
+        <word>APPLE</word>
         <description>It is a red fruit</description>
     </item>
-    <item>
-        <idAttribute>2</idAttribute>
-        <word>Pen</word>
+    <item id="2">
+        <word>PEN</word>
         <description>You write with it</description>
     </item>
-    <item>
-        <idAttribute>3</idAttribute>
-        <word>Chair</word>
+    <item id="3">
+        <word>CHAIR</word>
         <description>You sit in it</description>
+    </item>
+    <item id="4">
+        <word>ICE</word>
+        <description>It is cold here D:</description>
     </item>
 </struct>
